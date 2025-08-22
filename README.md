@@ -1,3 +1,3 @@
-# Ban Volume Keys (Android APP)
+# Ban Volume Keys
 
 Global blocking volume key.
